@@ -1,3 +1,4 @@
 Daftar Menu Warung Sunda
 1. Ayam Bakar
 2. Nasi Liwet
+3. Nasi Goreng
